@@ -1,2 +1,2 @@
-# Date-A-Scientist
+# Date-A-Scientist (in progress)
 Capstone project for Machine Learning Model
